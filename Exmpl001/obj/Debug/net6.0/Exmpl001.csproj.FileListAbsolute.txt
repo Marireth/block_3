@@ -1,0 +1,15 @@
+C:\Users\Sumixam\Desktop\Марина\Учеба ГБ\C#\Repo\Exmpl001\bin\Debug\net6.0\Exmpl001.exe
+C:\Users\Sumixam\Desktop\Марина\Учеба ГБ\C#\Repo\Exmpl001\bin\Debug\net6.0\Exmpl001.deps.json
+C:\Users\Sumixam\Desktop\Марина\Учеба ГБ\C#\Repo\Exmpl001\bin\Debug\net6.0\Exmpl001.runtimeconfig.json
+C:\Users\Sumixam\Desktop\Марина\Учеба ГБ\C#\Repo\Exmpl001\bin\Debug\net6.0\Exmpl001.dll
+C:\Users\Sumixam\Desktop\Марина\Учеба ГБ\C#\Repo\Exmpl001\bin\Debug\net6.0\Exmpl001.pdb
+C:\Users\Sumixam\Desktop\Марина\Учеба ГБ\C#\Repo\Exmpl001\obj\Debug\net6.0\Exmpl001.csproj.AssemblyReference.cache
+C:\Users\Sumixam\Desktop\Марина\Учеба ГБ\C#\Repo\Exmpl001\obj\Debug\net6.0\Exmpl001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sumixam\Desktop\Марина\Учеба ГБ\C#\Repo\Exmpl001\obj\Debug\net6.0\Exmpl001.AssemblyInfoInputs.cache
+C:\Users\Sumixam\Desktop\Марина\Учеба ГБ\C#\Repo\Exmpl001\obj\Debug\net6.0\Exmpl001.AssemblyInfo.cs
+C:\Users\Sumixam\Desktop\Марина\Учеба ГБ\C#\Repo\Exmpl001\obj\Debug\net6.0\Exmpl001.csproj.CoreCompileInputs.cache
+C:\Users\Sumixam\Desktop\Марина\Учеба ГБ\C#\Repo\Exmpl001\obj\Debug\net6.0\Exmpl001.dll
+C:\Users\Sumixam\Desktop\Марина\Учеба ГБ\C#\Repo\Exmpl001\obj\Debug\net6.0\refint\Exmpl001.dll
+C:\Users\Sumixam\Desktop\Марина\Учеба ГБ\C#\Repo\Exmpl001\obj\Debug\net6.0\Exmpl001.pdb
+C:\Users\Sumixam\Desktop\Марина\Учеба ГБ\C#\Repo\Exmpl001\obj\Debug\net6.0\Exmpl001.genruntimeconfig.cache
+C:\Users\Sumixam\Desktop\Марина\Учеба ГБ\C#\Repo\Exmpl001\obj\Debug\net6.0\ref\Exmpl001.dll
